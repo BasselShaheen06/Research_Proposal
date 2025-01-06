@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/177fede8-63d3-49ec-bacf-b4354c3a9d5e
+
 # **NOPIS: A New Horizon in Medical Imaging**
 
 Welcome to the future of medical diagnostics! Meet **NOPIS** (Non-Optimal Path Imaging System), a breakthrough in imaging technology designed to detect diseases like never before. By exploring what traditional systems miss, NOPIS offers a new way to see the unseen.
@@ -81,6 +85,7 @@ We believe that visuals help communicate complex ideas. Here are a few suggestio
 ## **Watch the Video**
 
 For a detailed explanation and demonstration of NOPIS, watch our video:
+https://github.com/user-attachments/assets/7333f161-6089-4c06-b025-bbef09f7dd29
 
 ---
 
@@ -103,3 +108,6 @@ We would like to extend our gratitude to the following contributors and organiza
 ## **License**
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this work as long as proper credit is given to the original authors.
+
+
+
