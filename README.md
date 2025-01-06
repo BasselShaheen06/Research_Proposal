@@ -71,7 +71,8 @@ The possibilities are vast, but here are some immediate applications:
 
 We believe that visuals help communicate complex ideas. Here are a few suggestions to enhance understanding:  
 1. **Device Diagram:** A labeled illustration showing NOPIS components.  
-2. **Meta-materials examples**: <img align="right" height="auto" width="200" src="https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8" width="200" />
+2. **Meta-materials examples**: <div><img align="right" height="auto" width="200" src="https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8" width="200" /><div/>
+
 ---
 
 ## **Acknowledgements**
