@@ -67,8 +67,7 @@ The possibilities are vast, but here are some immediate applications:
 
 ---
 
-<img align="right" width="250" style="margin-left: 20px;" src="path/to/image.png">
-
+<img align="right" width="250" style="margin-left: 20px;" src="https://github.com/user-attachments/assets/9fb640c9-6cee-490d-b62e-b2773ad04061">
 ### Visualizing the Future
 We believe that visuals help communicate complex ideas. Here are a few suggestions to enhance understanding:
 
