@@ -37,7 +37,7 @@ NOPIS combines several state-of-the-art components to deliver its magic:
 ## **What Makes NOPIS Different?**
 
 Here’s how NOPIS stacks up against current systems:  
-| Feature                 | NOPIS                  | MRI/CT/PET             | ![Screenshot 2025-01-06 161645](https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b)
+| Feature                 | NOPIS                  | MRI/CT/PET             | <img src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="300" align="right">
 |-------------------------|------------------------|------------------------|
 | **Resolution**          | Molecular-level        | Limited               |
 | **Safety**              | Non-ionizing           | Some risks (e.g., X-rays) |
