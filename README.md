@@ -37,7 +37,7 @@ NOPIS combines several state-of-the-art components to deliver its magic:
 
 <div style="display: flex; justify-content: space-between; align-items="center">
 
-<div style="flex: 1;">
+<div style="flex: 2;">
   
 ## **What Makes NOPIS Different?**
 
