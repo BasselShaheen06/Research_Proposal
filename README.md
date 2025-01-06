@@ -34,6 +34,7 @@ NOPIS combines several state-of-the-art components to deliver its magic:
    Generates stunning 3D images and integrates time for a 4D view, revealing cellular dynamics and molecular interactions.
 
 ---
+<div align="left">
 ## **What Makes NOPIS Different?**
 
 Here’s how NOPIS stacks up against current systems:  
@@ -43,7 +44,7 @@ Here’s how NOPIS stacks up against current systems:
 | **Safety**              | Non-ionizing           | Some risks (e.g., X-rays) |
 | **Detection Sensitivity** | Very high             | Moderate               |
 | **Applications**        | Early cancer detection | Late-stage focus       |
-
+<div/>
 ---
 
 ## **Challenges**
