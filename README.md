@@ -75,16 +75,6 @@ The possibilities are vast, but here are some immediate applications:
 
 ---
 
-## **Acknowledgements**
-
-We would like to extend our gratitude to the following contributors and organizations for their support in developing NOPIS:
-- The research and development team for their tireless efforts.
-- Collaborators in the fields of quantum physics and medical imaging.
-- Our academic and industrial partners who provided valuable insights.
-- The global medical community for their ongoing commitment to innovation.
-
----
-
 ## **License**
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this work as long as proper credit is given to the original authors.
