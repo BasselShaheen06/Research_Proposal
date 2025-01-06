@@ -101,8 +101,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## **Watch the Video**
 
-For a detailed explanation and demonstration of NOPIS, watch our video:
 https://github.com/user-attachments/assets/7333f161-6089-4c06-b025-bbef09f7dd29
+
 ---
 
 
