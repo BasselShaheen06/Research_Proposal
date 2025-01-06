@@ -67,12 +67,11 @@ The possibilities are vast, but here are some immediate applications:
 
 ---
 
-<img align="right" width="250" style="margin-left: 20px;" src="https://github.com/user-attachments/assets/9fb640c9-6cee-490d-b62e-b2773ad04061">
-### Visualizing the Future
-We believe that visuals help communicate complex ideas. Here are a few suggestions to enhance understanding:
-
-1. **Device Diagram**: A labeled illustration showing NOPIS components.  
-2. **Meta-materials examples**:
+| **Visualizing the Future**                                                                 | ![Split-ring_resonator_array_10K_sq_nm](https://github.com/user-attachments/assets/9fb640c9-6cee-490d-b62e-b2773ad04061)) |
+|-------------------------------------------------------------------------------------------|--------------------------------------|
+| We believe that visuals help communicate complex ideas. Here are a few suggestions:       |                                      |
+| 1. **Device Diagram**: A labeled illustration showing NOPIS components.                   |                                      |
+| 2. **Meta-materials examples**                                                            |                                      |
 
 ---
 
