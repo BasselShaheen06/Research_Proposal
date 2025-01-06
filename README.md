@@ -34,17 +34,15 @@ NOPIS combines several state-of-the-art components to deliver its magic:
    Generates stunning 3D images and integrates time for a 4D view, revealing cellular dynamics and molecular interactions.
 
 ---
-<div align="left">
 ## **What Makes NOPIS Different?**
 
 Here’s how NOPIS stacks up against current systems:  
-| Feature                 | NOPIS                  | MRI/CT/PET             | <img src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="300" align="right">
-|-------------------------|------------------------|------------------------|
-| **Resolution**          | Molecular-level        | Limited               |
-| **Safety**              | Non-ionizing           | Some risks (e.g., X-rays) |
-| **Detection Sensitivity** | Very high             | Moderate               |
-| **Applications**        | Early cancer detection | Late-stage focus       |
-<div/>
+| Feature                 | NOPIS                  | MRI/CT/PET             | Image                    |
+|-------------------------|------------------------|------------------------|--------------------------|
+| **Resolution**          | Molecular-level        | Limited                | ![Screenshot 2025-01-06 161645](https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b) |
+| **Safety**              | Non-ionizing           | Some risks (e.g., X-rays) |                          |
+| **Detection Sensitivity** | Very high             | Moderate               |                          |
+| **Applications**        | Early cancer detection | Late-stage focus       |                          |
 ---
 
 ## **Challenges**
