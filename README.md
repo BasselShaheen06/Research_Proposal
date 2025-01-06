@@ -6,7 +6,7 @@ Welcome to the future of medical diagnostics! Meet **NOPIS** (Non-Optimal Path I
 
 ## **What is NOPIS?**
 
-Imagine light rays taking unconventional routes like the ones in the image <img align="right" width="300" style="margin-left: 20px; margin-bottom: 10px;" src="https://github.com/user-attachments/assets/c747571c-319c-421c-aaa0-54d589091be1">, uncovering hidden details that standard imaging systems overlook. That’s what NOPIS does—it leverages advanced metamaterials and quantum technologies to capture subtle signals at a molecular and subatomic level. Think early cancer detection, pinpoint accuracy, and safer imaging—all in one device.
+Imagine light rays taking unconventional routes like the ones in the image <img align="right" width="300" height="auto" style="margin-left: 20px; margin-bottom: 10px;" src="https://github.com/user-attachments/assets/c747571c-319c-421c-aaa0-54d589091be1">, uncovering hidden details that standard imaging systems overlook. That’s what NOPIS does—it leverages advanced metamaterials and quantum technologies to capture subtle signals at a molecular and subatomic level. Think early cancer detection, pinpoint accuracy, and safer imaging—all in one device.
 
 <br><br>
 ## **Why Does It Matter?**
@@ -71,7 +71,7 @@ The possibilities are vast, but here are some immediate applications:
 
 We believe that visuals help communicate complex ideas. Here are a few suggestions to enhance understanding:  
 1. **Device Diagram:** A labeled illustration showing NOPIS components.  
-2. **Meta-materials examples**: <img align="right" src="https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8" width="200" />
+2. **Meta-materials examples**: <img align="right" height="auto" width="200" src="https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8" width="200" />
 ---
 
 ## **Acknowledgements**
