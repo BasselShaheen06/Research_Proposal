@@ -75,14 +75,6 @@ We believe that visuals help communicate complex ideas. Here are a few suggestio
 2. **Meta-materials examples**: <img src="https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8" width="200" />
 ---
 
-
-
-## **Join Us**
-
-We’re on a mission to redefine medical imaging. If you share our vision or want to learn more, reach out! Together, we can bring NOPIS to the world and make early detection the norm.
-
----
-
 ## **Acknowledgements**
 
 We would like to extend our gratitude to the following contributors and organizations for their support in developing NOPIS:
