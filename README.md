@@ -37,12 +37,36 @@ NOPIS combines several state-of-the-art components to deliver its magic:
 ## **What Makes NOPIS Different?**
 
 Here’s how NOPIS stacks up against current systems:  
-| Feature                 | NOPIS                  | MRI/CT/PET             | Image                    |
-|-------------------------|------------------------|------------------------|--------------------------|
-| **Resolution**          | Molecular-level        | Limited                | ![Screenshot 2025-01-06 161645](https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b) |
-| **Safety**              | Non-ionizing           | Some risks (e.g., X-rays) |                          |
-| **Detection Sensitivity** | Very high             | Moderate               |                          |
-| **Applications**        | Early cancer detection | Late-stage focus       |                          |
+
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>NOPIS</th>
+    <th>MRI/CT/PET</th>
+    <th rowspan="4"><img src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="200"></th>
+  </tr>
+  <tr>
+    <td><strong>Resolution</strong></td>
+    <td>Molecular-level</td>
+    <td>Limited</td>
+  </tr>
+  <tr>
+    <td><strong>Safety</strong></td>
+    <td>Non-ionizing</td>
+    <td>Some risks (e.g., X-rays)</td>
+  </tr>
+  <tr>
+    <td><strong>Detection Sensitivity</strong></td>
+    <td>Very high</td>
+    <td>Moderate</td>
+  </tr>
+  <tr>
+    <td><strong>Applications</strong></td>
+    <td>Early cancer detection</td>
+    <td>Late-stage focus</td>
+  </tr>
+</table>
+
 ---
 
 ## **Challenges**
