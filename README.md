@@ -72,18 +72,10 @@ The possibilities are vast, but here are some immediate applications:
 
 We believe that visuals help communicate complex ideas. Here are a few suggestions to enhance understanding:  
 1. **Device Diagram:** A labeled illustration showing NOPIS components.  
-2. **4D Imaging Example:** A visualization of cellular activity over time.  
-3. **Comparison Chart:** A simple side-by-side comparison with current imaging systems.  
-4. **Cherenkov Radiation Map:** Show how radiation therapy is visualized in real time.
-
+2. **Meta-materials examples**: ![Split-ring_resonator_array_10K_sq_nm](https://github.com/user-attachments/assets/e9cb168c-7377-491c-8024-0d6d93806db8)
 ---
 
-## **Watch the Video**
 
-For a detailed explanation and demonstration of NOPIS, watch our video:
-## https://github.com/user-attachments/assets/7333f161-6089-4c06-b025-bbef09f7dd29
-
----
 
 ## **Join Us**
 
@@ -105,5 +97,11 @@ We would like to extend our gratitude to the following contributors and organiza
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this work as long as proper credit is given to the original authors.
 
+---
+
+## **Watch the Video**
+
+For a detailed explanation and demonstration of NOPIS, watch our video:
+https://github.com/user-attachments/assets/7333f161-6089-4c06-b025-bbef09f7dd29
 
 
