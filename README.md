@@ -52,7 +52,7 @@ Here’s how NOPIS stacks up against current systems:
 </div>
 
 <div style="flex: 1; padding-left: 20px; text-align: right;">
-  <img align="right "src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="300">
+  <img align="right" src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="300">
 </div>
 
 </div>
