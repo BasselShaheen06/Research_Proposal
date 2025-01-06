@@ -89,7 +89,7 @@ The possibilities are vast, but here are some immediate applications:
 
 ---
 
-| ## **Visualizing the Future**                                                             |                                      |
+## **Visualizing the Future**                                                             |                                      |
 |-------------------------------------------------------------------------------------------|--------------------------------------|
 | We believe that visuals help communicate complex ideas. Here are a few suggestions:       |                                      |
 | 1. **Device Diagram**: A labeled illustration showing NOPIS components.                   |                                      |
