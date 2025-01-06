@@ -7,7 +7,7 @@ Welcome to the future of medical diagnostics! Meet **NOPIS** (Non-Optimal Path I
 ## **What is NOPIS?**
 
 Imagine light rays taking unconventional routes, uncovering hidden details that standard imaging systems overlook. That’s what NOPIS does—it leverages advanced metamaterials and quantum technologies to capture subtle signals at a molecular and subatomic level. Think early cancer detection, pinpoint accuracy, and safer imaging—all in one device.
-
+![quinceyfig2](https://github.com/user-attachments/assets/c747571c-319c-421c-aaa0-54d589091be1)
 ---
 
 ## **Why Does It Matter?**
@@ -55,7 +55,7 @@ Every innovation comes with its hurdles. For NOPIS, they include:
 - **Signal Noise:** Processing vast amounts of data and separating useful signals from noise.  
 - **Cost:** Ensuring affordability while using cutting-edge technology.
 
-We’re working tirelessly to tackle these challenges, and with continued innovation, we’re confident NOPIS will become a medical imaging staple.
+In the future we will be tackling these challenges, and with continued innovation, we’re confident NOPIS will become a medical imaging staple.
 
 ---
 
