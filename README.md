@@ -43,7 +43,7 @@ Here’s how NOPIS stacks up against current systems:
     <th>Feature</th>
     <th>NOPIS</th>
     <th>MRI/CT/PET</th>
-    <th rowspan="4"><img src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="200"></th>
+    <th rowspan="5"><img src="https://github.com/user-attachments/assets/89bb78c8-d663-4616-84a7-c03121ede60b" width="300"></th>
   </tr>
   <tr>
     <td><strong>Resolution</strong></td>
