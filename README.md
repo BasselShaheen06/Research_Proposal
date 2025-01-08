@@ -88,9 +88,9 @@ The possibilities are vast, but here are some immediate applications:
 
 ---
 
-| **Visualizing the Future**                                                             |                                      |
-|-------------------------------------------------------------------------------------------|--------------------------------------|
-| We believe that visuals help communicate complex ideas. Here are a few suggestions:       |                                      |
+**Visualizing the Future** 
+We believe that visuals help communicate complex ideas. Here are a few suggestions:
+|----------------------------------------------------------------------------------------------------------------------------------|
 | 1. **Device Diagram**: A labeled illustration showing NOPIS components.                   |![WhatsApp Image 2025-01-08 at 15 55 39_dce64d22](https://github.com/user-attachments/assets/aefd26c1-a299-42d2-ac24-74fc9ff4776c)|
 | 2. **Meta-materials examples**                                                            |![Split-ring_resonator_array_10K_sq_nm](https://github.com/user-attachments/assets/9fb640c9-6cee-490d-b62e-b2773ad04061))|
 
