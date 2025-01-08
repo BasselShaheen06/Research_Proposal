@@ -91,7 +91,7 @@ The possibilities are vast, but here are some immediate applications:
 **Visualizing the Future** 
 |We believe that visuals help communicate complex ideas. Here are a few suggestions:|                                               |
 |-------------------------------------------------------------------------|---------------------------------------------------------|
-| 1. **Device Diagram**: A labeled illustration showing NOPIS components. |<img align="center" src="https://github.com/user-attachments/assets/aefd26c1-a299-42d2-ac24-74fc9ff4776c" width="300">|
+| 1. **Device Diagram**: Illustration showing NOPIS Prototype. |<img align="center" src="https://github.com/user-attachments/assets/aefd26c1-a299-42d2-ac24-74fc9ff4776c" width="300">|
 | 2. **Meta-materials examples**                                          |<img align="center" src="https://github.com/user-attachments/assets/9fb640c9-6cee-490d-b62e-b2773ad04061" width="300">|
 
 ---
